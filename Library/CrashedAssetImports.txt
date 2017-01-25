@@ -1,0 +1,1 @@
+Assets/prefabs/personaje 2/yo.fbm/yo_Top_Specular.png
